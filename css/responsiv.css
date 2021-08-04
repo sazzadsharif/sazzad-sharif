@@ -30,11 +30,11 @@ button#button {
 }
 
 .menu {
-    width: 300px;
+    width: 95%;
     background: #106eea;
     position: absolute;
     top: 77px;
-    left: -300px;
+    left: -100%;
     height: 100vh;
     z-index:999;
     transition:0.5s;
